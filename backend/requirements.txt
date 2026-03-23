@@ -27,3 +27,5 @@ requests
 
 
 apscheduler
+
+gunicorn==<version>
