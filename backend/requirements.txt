@@ -1,0 +1,29 @@
+# Core Framework
+fastapi
+uvicorn
+
+# Database & ORM
+sqlalchemy
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
+
+# Authentication & Security (future-ready)
+passlib[bcrypt]
+
+# Twilio (Automated Calling)
+twilio
+
+# Date & Time handling
+python-dateutil
+
+# File & Excel handling (promotion calls, reports)
+pandas
+openpyxl
+
+# HTTP requests (future integrations)
+requests
+
+
+apscheduler
