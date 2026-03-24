@@ -26,13 +26,13 @@ export function Dashboard() {
   const [successRate, setSuccessRate] = useState(0);
 
   const [studentForm, setStudentForm] = useState({
-    Roll_no: "",
-    Name: "",
-    Parent_name: "",
-    Parent_phone: "",
-    Department: "",
-    Year: "",
-    Section: ""
+    roll_no: "",
+    name: "",
+    parent_name: "",
+    parent_phone: "",
+    department: "",
+    year: "",
+    section: ""
   });
 
   // 🤖 CHATBOT

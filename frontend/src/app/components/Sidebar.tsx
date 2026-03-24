@@ -22,7 +22,7 @@ export function Sidebar({ activeTab, onTabChange }: SidebarProps) {
   <div className="flex items-center gap-3">
 
     {/* LOGO */}
-    <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-100 to-blue-200 border border-blue-300 flex items-center justify-center shadow-sm">
+    <div className="w-15 h-14 rounded-xl bg-gradient-to-br from-blue-100 to-blue-200 border border-blue-300 flex items-center justify-center shadow-sm">
   <img
     src="/cmr_logo.jpg"
     alt="CMR Logo"
@@ -33,7 +33,7 @@ export function Sidebar({ activeTab, onTabChange }: SidebarProps) {
     {/* TEXT */}
     <div className="leading-tight">
       <h1 className="text-lg font-bold text-gray-900">
-        CMR AutoCaller
+        CMRTC AutoCaller
       </h1>
       <p className="text-xs text-gray-500">
         Smart Attendance & Alerts
